@@ -17,7 +17,6 @@ hr {
 
 .main {
   font-family: "Kanit", sans-serif;
-  text-align: center;
   display: block;
   margin: 20px auto;
   padding: 15px;
@@ -147,4 +146,5 @@ hr {
 
 .smaller {
   font-size: smaller;
+  text-align: center;
 }
