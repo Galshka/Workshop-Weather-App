@@ -17,6 +17,7 @@ hr {
 
 .main {
   font-family: "Kanit", sans-serif;
+  text-align: center;
   display: block;
   margin: 20px auto;
   padding: 15px;
@@ -29,7 +30,7 @@ hr {
 .main a {
   text-decoration: none;
   color: rgb(47, 29, 150);
-  font-weight: bold;
+  font-weight: 500;
 }
 .cities-block {
   margin-top: 5px;
@@ -142,4 +143,8 @@ hr {
 
 .fa {
   font-size: larger;
+}
+
+.smaller {
+  font-size: smaller;
 }
