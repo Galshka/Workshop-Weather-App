@@ -25,6 +25,12 @@ hr {
   border-color: #008b8b;
   border-radius: 15px;
 }
+
+.main a {
+  text-decoration: none;
+  color: rgb(47, 29, 150);
+  font-weight: bold;
+}
 .cities-block {
   margin-top: 5px;
   margin-left: 10px;
